@@ -7,3 +7,4 @@ Un blog increible para curso de Git y Github
 * Comands de Git
 * Buenas practicas
 * Multiples personalidades del profesor
+* Creado por Platzi Team
