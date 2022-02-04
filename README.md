@@ -8,3 +8,4 @@ Un blog increible para curso de Git y Github
 * Buenas practicas
 * Multiples personalidades del profesor
 * Creado por Platzi Team
+* Incluye ejemplos en windos, linux y MAC
