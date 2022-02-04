@@ -10,3 +10,4 @@ Un blog increible para curso de Git y Github
 * Creado por Platzi Team
 * Incluye ejemplos en windos, linux y MAC
 * Disponible para todas las edades
+* Mejorado
