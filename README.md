@@ -7,10 +7,6 @@ Un blog increible para curso de Git y Github
 * Comands de Git
 * Buenas practicas
 * Multiples personalidades del profesor
-<<<<<<< HEAD
-* Creado por Platzi Team
-=======
 * Creado por Platzi Team
 * Incluye ejemplos en windos, linux y MAC
 * Disponible para todas las edades
->>>>>>> readme-me
